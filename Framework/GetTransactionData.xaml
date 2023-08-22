@@ -116,7 +116,7 @@
               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
             </scg:Dictionary>
           </sap:WorkflowViewStateService.ViewState>
-          <ui:GetRowItem Column="{x:Null}" ColumnIndex="{x:Null}" ColumnName="WIID" DisplayName="Get Row Item" sap:VirtualizedContainerService.HintSize="334,187" sap2010:WorkflowViewState.IdRef="GetRowItem_1" Row="[io_dt_TransactionData.Rows(1)]">
+          <ui:GetRowItem Column="{x:Null}" ColumnIndex="{x:Null}" ColumnName="WIID" DisplayName="Get Row Item" sap:VirtualizedContainerService.HintSize="334,187" sap2010:WorkflowViewState.IdRef="GetRowItem_1" Row="[io_dt_TransactionData.Rows(0)]">
             <ui:GetRowItem.Value>
               <OutArgument x:TypeArguments="x:String">[out_TransactionID]</OutArgument>
             </ui:GetRowItem.Value>
