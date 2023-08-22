@@ -5,6 +5,7 @@
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.22.0-preview]",
+    "UiPath.GSuite.Activities": "2.2.5",
     "UiPath.System.Activities": "[23.8.1-preview]",
     "UiPath.Testing.Activities": "[23.8.0-preview]",
     "UiPath.UIAutomation.Activities": "[23.6.2-preview]"
