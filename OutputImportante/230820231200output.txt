@@ -1,0 +1,17 @@
+08/23/2023 12:03:05 => [Debug] Execution started for project: CalculateClientSecurityHash
+08/23/2023 12:03:06 => [Info] CalculateClientSecurityHash execution started
+08/23/2023 12:03:07 => [Info] Resolução de tela primaria: 1920 x 1200
+08/23/2023 12:03:07 => [Debug] Initializing settings...
+08/23/2023 12:03:09 => [Debug] Killing processes...
+08/23/2023 12:03:09 => [Debug] Opening applications...
+08/23/2023 12:03:14 => [Info] Login Success: True
+08/23/2023 12:03:17 => [Info] Work Item aberto com sucesso:
+08/23/2023 12:03:17 => [Debug] Inicio da raspagem de dados - Work Items
+08/23/2023 12:04:35 => [Debug] Fim da raspagem de dados - Work Items
+08/23/2023 12:04:35 => [Error] Throw: Não há dados a ser tratado
+08/23/2023 12:04:35 => [Error] sq_ExtractTable.xaml - Invoke Workflow File: Não há dados a ser tratado
+08/23/2023 12:04:35 => [Error] Houve um erro de negocio, não há dados a processar no System 1
+08/23/2023 12:04:35 => [Debug] Closing applications...
+08/23/2023 12:04:35 => [Debug] Audit: Using Web App. Browser: Chrome URL: https://acme-test.uipath.com*
+08/23/2023 12:04:37 => [Debug] Audit: Using Web App. Browser: Chrome URL: http://www.sha1-online.com/
+08/23/2023 12:04:47 => [Info] CalculateClientSecurityHash execution ended in: 00:01:40
